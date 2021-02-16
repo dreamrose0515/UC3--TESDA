@@ -1,4 +1,4 @@
-// PROTOTYPE EXPLINED
+// PROTOTYPE EXPLAINED
 // object.prototype
 // Person.prototype
 
